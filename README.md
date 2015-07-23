@@ -4,7 +4,7 @@ This code implements the Eigenfaces algorithm in C++ using OpenCV 2.4.9. The cod
 
 Notes
 -----
-- The code was originally intended intended for use with the data available here (www.cec.uchile.cl/~crsilva/projects/eigenfaces/faces.tar.gz). This data contains samples of the Yale Face Database B (10 subjects, 1 pose, 64 illumination conditions).
+- The code was originally intended for use with the data available here (www.cec.uchile.cl/~crsilva/projects/eigenfaces/faces.tar.gz). This data contains samples of the Yale Face Database B (10 subjects, 1 pose, 64 illumination conditions).
 
 Instructions
 ------------

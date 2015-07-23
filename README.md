@@ -19,8 +19,8 @@ The first one uses a default value (7) of principal componentes for the algorith
 
 References
 ----------
-Eigenfaces Algorithm: http://www.scholarpedia.org/article/Eigenfaces
-Yale Face Database B: http://www.computervisiononline.com/dataset/yale-face-database-b
+- Eigenfaces Algorithm: http://www.scholarpedia.org/article/Eigenfaces
+- Yale Face Database B: http://www.computervisiononline.com/dataset/yale-face-database-b
 
 Contact
 -------

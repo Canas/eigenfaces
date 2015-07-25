@@ -3,7 +3,6 @@ faces.tar.gz
 eigenfaces
 Makefile
 cmake_install.cmake
-CMakeLists.txt
 CMakeCache.txt
 CMakeFiles
 output/*.yml

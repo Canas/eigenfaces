@@ -4,7 +4,7 @@ This code implements the Eigenfaces algorithm in C++ using OpenCV 2.4.9. The cod
 
 Notes
 -----
-- The code is intended for use with the data available here (www.cec.uchile.cl/~crsilva/projects/eigenfaces/faces.tar.gz). This data contains samples of the Yale Face Database B (10 subjects, 1 pose, 64 illumination conditions).
+- The code is intended for use with the images inside the data folder. This data contains samples of the Yale Face Database B (10 subjects, 1 pose, 64 illumination conditions).
 - The eigenfaces output is a JPG file called "all_reconstructed_dX" where X is the number of components evaluated in the program.
 - There are other numerous output files including yml represantions of different steps in the code. The steps use the same notation as the references and are explained in depth in the comments which are for the moment in spanish (someday I will translate all).
 
